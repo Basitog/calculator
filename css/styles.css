@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/cal.jpg);
+    background-size: cover;
+}
+
+label{
+    color: white;
+    font-weight: bolder;
+}
+
+h3{
+    color: white;
+}
