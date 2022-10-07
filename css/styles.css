@@ -5,9 +5,9 @@ body{
 
 label{
     color: white;
-    font-weight: bolder;
+    /* font-weight: bolder; */
 }
 
 h3{
-    /* color: white; */
+    color: white;
 }
