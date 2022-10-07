@@ -1,11 +1,11 @@
 body{
-    background-image: url(../img/cal.jpg);
+    /* background-image: url(../img/cal.jpg); */
     background-size: cover;
 }
 
 label{
     color: white;
-    /* font-weight: bolder; */
+    font-weight: bolder;
 }
 
 h3{
